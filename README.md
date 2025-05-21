@@ -1,2 +1,7 @@
 # The-Pub-Chicken
 Alright guys, time to get serious, this time I will make a platformer game in Unity! Stay tune!
+
+Im watching this video: https://www.youtube.com/watch?v=XtQMytORBmM&t=990s&pp=0gcJCY0JAYcqIYzv
+- May 21st: 16:09
+- May 22nd: ...
+- May 23rd: ...

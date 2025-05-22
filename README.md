@@ -6,3 +6,6 @@ Im watching this video: https://www.youtube.com/watch?v=XtQMytORBmM&t=990s&pp=0g
 - May 22nd: ...
 - May 23rd: ...
 - (updating...)
+
+# Progress Update:
+- May 21st: 

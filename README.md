@@ -2,6 +2,7 @@
 Alright guys, time to get serious, this time I will make a platformer game in Unity! Stay tune!
 
 Im watching this video: https://www.youtube.com/watch?v=XtQMytORBmM&t=990s&pp=0gcJCY0JAYcqIYzv (apparently this video is best to make flappy bird dupe, im building something else so i dont watch this)
+Im watching this video: https://www.youtube.com/watch?v=OT537RfNzCU 
 - May 21st: 16:09
 - May 22nd: 16:09
 - May 23rd: end...(of this video)

@@ -7,7 +7,7 @@ Im watching this video: https://www.youtube.com/watch?v=XtQMytORBmM&t=990s&pp=0g
 - May 23rd: end...(of this video)
 - (updating...)
 
-Im watching this video: https://www.youtube.com/watch?v=OT537RfNzCU (apparently this series is for creating a platformer game!)
+Im watching this video: https://www.youtube.com/watch?v=BwrzZI0_-qw&list=PLaaFfzxy_80EWnrTHyUkkIy6mJrhwGYN0 (apparently this series is for creating a platformer game!)
 - May 26th: part 3...
 - May 27th: part 4... it was a real hassle debugging watthefuvk
 - May 28th: part something, it was about making the character wall jump but i dont want that so i move on to the animation
